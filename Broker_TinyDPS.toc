@@ -1,0 +1,14 @@
+## Interface: 50400
+## Version: 5.4.2
+
+## Title: Broker: |cff00ff00TinyDPS|r 
+## Notes: Toggle for TinyDPS by Talyrius, Sideshow (former)
+## Author: almty1
+
+## Dependencies: TinyDPS
+
+Broker_TinyDPS.lua
+
+## Libraries
+libs\LibDataBroker-1.1.lua
+
